@@ -15,7 +15,7 @@
 ## -------------------
 ## How to use this repository
 ###
-* **"Priv2 Commodities.xlsx" << THE MAIN FILE** - google sheets document with route calculation, commodity prices, estimated profit, adjacency matrix and data exports
+* **"Priv2 Commodities.xlsx" << THE MAIN FILE** - google sheets document with route calculation, commodity prices, estimated profit, adjacency matrix and data exports for gephi
 * "Priv2 Commodities - export.csv" - csv exported adjacency matrix of all navigation points (0-225)
 * "Priv2 Commodities - export.gephi" - gephi file of imported adjacency matrix showing structure, interconnection and shortest route
 * "Priv2_commodity_profit_calc.png" - image file showing how to use the route and profit calculator
