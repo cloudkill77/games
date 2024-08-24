@@ -6,3 +6,6 @@ privateer2
 • navigation map in gephi format
 
 file formats currently: google sheets, csv and gephi
+
+used information provided by the official privateer 2 strategy guide
+game used is digital download from GOG.com plus the unofficial patch from wcnews.com
