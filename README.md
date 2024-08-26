@@ -23,5 +23,5 @@
 
 ## -------------------
 ### Notes
-The profit calculator uses a simple lookup table in the Google Sheets document. The manually entered adjacency matrix in the same sheet is used to create the Gephi graph; there is no other connection between these data sources and it just happens to be stored in the same document.
+The profit calculator uses two simple lookup tables in the Google Sheets document (Data and AdjacencyMatrix). The manually entered adjacency matrix (AdjacencyMatrix.dev2) in the same sheet is used to create the Gephi graph; there is no other connection between these data sources and it just happens to be stored in the same document. The remaining sheets (AdjacencyMatrix.dev, AdjacencyMatrix.dev.binary, copypaste, export) are test or temporary sheets.
 
