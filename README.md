@@ -19,3 +19,9 @@
 * "Priv2 Commodities - export.csv" - csv exported adjacency matrix of all navigation points (0-225)
 * "Priv2 Commodities - export.gephi" - gephi file of imported adjacency matrix showing structure, interconnection and shortest route
 * "Priv2_commodity_profit_calc.png" - image file showing how to use the route and profit calculator
+
+
+## -------------------
+### Notes
+The profit calculator uses two simple lookup tables in the Google Sheets document (Data and AdjacencyMatrix). The manually entered adjacency matrix (AdjacencyMatrix.dev2) in the same sheet is used to create the Gephi graph; there is no other connection between these data sources and it just happens to be stored in the same document. The remaining sheets (AdjacencyMatrix.dev, AdjacencyMatrix.dev.binary, copypaste, export) are test or temporary sheets.
+
